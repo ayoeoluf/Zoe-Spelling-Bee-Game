@@ -1,4 +1,4 @@
-import SpellingBeeGame from '@/components/SpellingBeeGame';
+import SpellingBeeGame from '../components/SpellingBeeGame';
 
 export default function Home() {
   return <SpellingBeeGame />;
